@@ -1,4 +1,6 @@
 just designer guy wanting its design come to life
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Liiesl&layout=compact&hide_title=true&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Liiesl&layout=compact&hide_title=true&langs_count=6&theme=dark)
 <!--
 **Liiesl/Liiesl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
